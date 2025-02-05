@@ -13,7 +13,7 @@ A visual representation of knowledge areas using Vue.js and Cytoscape.js.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/vue-knowledge-map.git
+    git clone https://github.com/Lebohang1821/map-of-knowledge
     cd vue-knowledge-map
     ```
 
